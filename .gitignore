@@ -1,0 +1,17 @@
+out
+build
+dist
+connexion.egg-info
+__pycache__/
+.coverage
+*.egg
+htmlcov/
+*.pyc
+.eggs
+.cache/
+*.swp
+.venv
+.idea/*
+*.c
+*.so
+*.o
